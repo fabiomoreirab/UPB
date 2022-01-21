@@ -1,4 +1,4 @@
-# UPB UPB GRUPO 6
+# UPB GRUPO 6
 
 
 Integrantes del Grupo:
