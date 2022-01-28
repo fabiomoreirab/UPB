@@ -1,6 +1,6 @@
 ---
 title: "SCM y Desarrollo de Proveedores"
-author: "Nombre del GRUPO"
+author: "GRUPO 6"
 subtitle: Una oportunidad para la Industria 4.0 
 output:
   pdf_document:
@@ -15,23 +15,24 @@ output:
     fig_caption: yes
 ---
 
+\newpage
+<center>
+![](image/logo.png)
+</center>
 
-## Trabajo Fial del Módulo
+
+# Trabajo Final del Módulo
 
 <h2>Maestría en Administración de Empresas </h2>
 
-<h3>Supply Chain Management  </h3>
+<h3>Supply Chain Management1  </h3>
 <h2> Una puerta de entrada para Industria 4.0 en latinoamérica </h2>
-![UDS](image/logo.png)
+
 <hr>
 
+## GRUPO 6
 
-# Formato para la presentación del trabajo final del módulo
 
-
-## Nombre del Grupo
-
-GRUPO 6
 ## Integrantes
 
 1. YHOSELYN TANIA QUINTANILLA CASSA <yhoselynrs@gmail.com>
@@ -39,7 +40,6 @@ GRUPO 6
 3. DENNIS RAMON ZAPATA SOTO <dennis.zapata.soto@gail.com>
 4. FABIAN MILTON MURILLO BALDIVIESO <fabmurbal@gmail.com>
 
-# Estructura de la monografía
 
 ## Situación Problema
 
