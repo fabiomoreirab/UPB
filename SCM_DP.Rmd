@@ -34,14 +34,10 @@ output:
 GRUPO 6
 ## Integrantes
 
-No olvides señala el nombre de los integrantes.
-
 1. YHOSELYN TANIA QUINTANILLA CASSA <gpalma@gmail.com>
 2. FABIO ROBERTO MOREIRA BERNAL <dapangique@yahoo.com>
 3. DENNIS RAMON ZAPATA SOTO <brayan.pardo@live.com>
 4. FABIAN MILTON MURILLO BALDIVIESO <wp_pinto@altavista.com>
-
-
 
 # Estructura de la monografía
 
