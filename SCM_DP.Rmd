@@ -43,9 +43,7 @@ output:
 
 ## Situación Problema
 
-Describe brevemente la situación problema o caso de estudio que desarrollarás. Justifica por qué puede resultar interesante para las empresas del sector continuar leyendo el trabajo.
-Trata de proponer una solución y pregúntate a ti mismo si la solución que enuncias podría solucionar (al menos parcialmente) el problema. En muchos artículos científicos esto se expresa como "Pregunta de Investigación" o "Hipótesis".
-
+La hipótesis del presente trabajo se enfoca en poder realizar el estudio de variables que pueden ser inferentes en mayor proporción al momento de determinar lo preparada que esta una ciudad para la implementación de SMART CITIES, basado en la base de datos ofrecida por el IESE cities in motion, de esto forma poder enfocar las fortalezas que son necesarias y al mismo tiempo identificar las debilidades de algunas ciudad, las cuales no permiten el progreso de las mismas. Se realizara el estudio especifico de las ciudades del Pais Bolivia, en lo que respecta a la situación actual según la base de datos, y al mismo tiempo realizar una comparación con potencias mundiales y de cada uno de los continentes.
 
 
 ### Resumen
