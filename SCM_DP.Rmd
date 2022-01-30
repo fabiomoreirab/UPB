@@ -72,6 +72,21 @@ Explica algo de la historia del o de los métodos que resulten elegidos. Comenta
 
 ## Experimentación
 
+par(mfrow=c(2,2))
+
+plot(IESE2020$`Cities in Motion`,IESE2020$`Medio ambiente`,main="Index vS Medio ambiente",ylab="Medio ambiente",xlab="Index")
+plot(IESE2020$`Cities in Motion`,IESE2020$`Cohesión social`,main="Index vS Cohesión social",ylab="Cohesión social",xlab="Index")
+plot(IESE2020$`Cities in Motion`,IESE2020$`Planificación Urbana`,main="Index vS Planificación Urbana",ylab="Planificación Urbana",xlab="Index")
+plot(IESE2020$`Cities in Motion`,IESE2020$`Movilidad y transporte`,main="Index vS Movilidad y transporte",ylab="Movilidad y transporte",xlab="Index")
+
+plot(IESE2020$`Cities in Motion`,IESE2020$Gobernanza,main="Index vS Gobernanza",ylab="Gobernanza",xlab="Index")
+plot(IESE2020$`Cities in Motion`,IESE2020$`Proyección Internacional`,main="Index vS Proyección Internacional",ylab="Proyección Internacional",xlab="Index")
+plot(IESE2020$`Cities in Motion`,IESE2020$`Capital Humano`,main="Index vS CapitalHumano",ylab="CapitalHumano",xlab="Index")
+plot(IESE2020$`Cities in Motion`,IESE2020$Economía,main="Index vS Economía",ylab="Economía",xlab="Index")
+
+plot(IESE2020$`Cities in Motion`,IESE2020$Tecnología,main="Index vS Tecnología",ylab="Tecnología",xlab="Index")
+
+
 Aplica los métodos que seleccionaste a los datos que tienes.
 Construye resultados numéricos.
 Presenta gráficos
@@ -79,6 +94,14 @@ Si fuese necesario elabora una infografía con todo el material.
 
 
 ## Interpretación de resultados
+
+## Se puede observar en los graficos obtenidos lo siguiente:
+* Se puede observar en los graficos que los primeros cuatro, que se refieren a medio ambiente, cohesion social, planificacion urbana y movilidad y transporte no son factores que influyan en los resultados de las posiciones para el ranking IESE cities in motion, ya que la comparacion entre posicion con cada una de la variables no muestran un comportamiento lineal creciente, por lo que se descarta este tipo de factores como "importantes" al momento de pensar en un pais para mejorar la posicion actual.
+
+* Se puede observar con un indice medio de determinacion en el ranking la gobernanza y el capital humano, ya que se puede observar un incide de crecimiento con menor dispersion que los mencionados en primera instancia, dentro de estos existen paises con buen rankin con baja gobernanza o proyeccion internacional.
+
+*Con una determinacion con mayor impacto sobre el ranking se observa el criterio de capital humano en primera instancia, que como se puede observar ya llega a tener una linealidad mas constante al igual que el indice de economia, que como se puede observar existen ciudades con un ranking (index) bajo, que se interpretan como piases con una proyeccion de mejora en futuros anos. Como ultimo dato y mas importante para el ranking es la tecnologia de cada ciudad, que demuestra un comportamiento lineal con baja dispersion, que de igual forma se pueden encontrar paises con un futura mejora.
+
 
 En esta parte señala claramente las cosas que no eran evidentes y que se han puesto de manifiesto con la experimentación.
 Trata de comentar situaciones del contexto que no fueron explicadas en la **Situación Problema** que están influyendo en los gráficos y resultados obtenidos.
