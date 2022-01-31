@@ -71,17 +71,21 @@ Que pais esta cerca a tener mas ciudades inteligentes segun el dataset ?
 ## Revisión bibliográfica, materiales y métodos ####
 ####################################################
 
-Para el analisis de la tematica y la situacion y solucion del problema que planteamos nos dedicamos a buscar un dataset con las siguientes caracteristcas:
+Para el análisis de la temática se usó el ICIM, el cual es un indicador sintético y, como tal, constituye una función basada en los indicadores parciales disponibles.
+El proceso de creación de este indicador sintético se basa en un modelo de agregación ponderada de indicadores parciales que representan cada una de las nueve dimensiones que componen el modelo teórico del ICIM. Las seleccionadas para describir la realidad de las ciudades, en función de la sostenibilidad y la calidad de vida de sus habitantes, tanto en el presente como en el futuro, son las siguientes: 
 
-*Lista de ciudades inteligentes en todo el mundo.
-*Lista de países donde se encuentran las ciudades inteligentes de todo el mundo.
-*Índice calculado a partir de la evaluación del sistema de transporte público, las TIC y la infraestructura de accesibilidad de la ciudad.
-*Índice calculado a partir del impacto de sostenibilidad ambiental, seguimiento de la contaminación y gestión energética-
-*Índice calculado a partir de un estudio comparativo de gobernanza transparente e iniciativas de datos abiertos de ciudades inteligentes en todo el mundo.
-*Índice calculado a través de la comparación global de la productividad, la vitalidad económica y el apoyo a la ciudad.
-*Índice calculado comparando la pluralidad social y cultural, los sistemas educativos y sus auxiliares de apoyo.
-*Índice calculado midiendo métricas en torno a los servicios de salud, seguridad social y calidad de la vivienda.
-*Puntaje agregado para el modelo de ciudad inteligente basado en supergrupos de ciudades inteligentes.
+*Gobernanza, 
+*Planificación urbana, 
+*Tecnología,
+*Medioambiente, 
+*Proyección internacional, 
+*Cohesión social, 
+*Capital humano, 
+*Movilidad y transporte, y 
+*Economía.
+
+Si bien el orden en el que se incorpora cada índice sintético de cada dimensión influye en el valor del ICIM,
+los estudios de sensibilidad realizados concluyen que no existen variaciones significativas en el mismo. 
 
 Para el analisis de la problematica se usara el metodo de Pareto, para comparar y resolver la problematica expuesta .
 
