@@ -30,7 +30,7 @@ output:
 
 <hr>
 
-## GRUPO 6
+## GRUPO 6 
 
 
 ## Integrantes
