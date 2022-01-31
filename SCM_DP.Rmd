@@ -138,6 +138,8 @@ Su utilización fuerza al grupo de trabajo a tomar decisiones basadas en datos y
 
 ## Experimentación
 
+##Comparacion de graficas entre la posicion asignada a cada ciudad, con las variables que son analizadas para cada ciudad
+```{r}
 par(mfrow=c(2,2))
 
 plot(IESE2020$`Cities in Motion`,IESE2020$`Medio ambiente`,main="Index vS Medio ambiente",ylab="Medio ambiente",xlab="Index")
@@ -151,7 +153,89 @@ plot(IESE2020$`Cities in Motion`,IESE2020$`Capital Humano`,main="Index vS Capita
 plot(IESE2020$`Cities in Motion`,IESE2020$Economía,main="Index vS Economía",ylab="Economía",xlab="Index")
 
 plot(IESE2020$`Cities in Motion`,IESE2020$Tecnología,main="Index vS Tecnología",ylab="Tecnología",xlab="Index")
+```
 
+## Ranking TOP 10 para cada una de las variables asignadas
+```{r}
+library(dplyr)
+t <- arrange(IESE2020,`Medio ambiente`)
+head(t,10)
+
+```
+
+```{r}
+library(dplyr)
+t <- arrange(IESE2020,`Cohesión social`)
+head(t,10)
+
+```
+
+
+```{r}
+library(dplyr)
+t <- arrange(IESE2020,`Planificación Urbana`)
+head(t,10)
+
+```
+
+```{r}
+library(dplyr)
+t <- arrange(IESE2020,`Movilidad y transporte`)
+head(t,10)
+
+```
+
+```{r}
+library(dplyr)
+t <- arrange(IESE2020,`Gobernanza`)
+head(t,10)
+
+```
+
+
+```{r}
+library(dplyr)
+t <- arrange(IESE2020,`Proyección Internacional`)
+head(t,10)
+
+```
+
+
+```{r}
+library(dplyr)
+t <- arrange(IESE2020,`Capital Humano`)
+head(t,10)
+
+```
+
+
+```{r}
+library(dplyr)
+t <- arrange(IESE2020,`Economía`)
+head(t,10)
+
+```
+
+
+```{r}
+library(dplyr)
+t <- arrange(IESE2020,`Tecnología`)
+head(t,10)
+
+```
+
+##Comparacion de la ciudad con mejor ranking del mundo (Londres), la mejor ciudad de sudamerica y la ciudad de La Paz - Bolivia
+```{r}
+library(dplyr)
+library(fmsb)
+x <- filter(IESE2020,`Ciudad`=="Londres-ReinoUnido")
+y <- filter(IESE2020,`Ciudad`=="Santiago-Chile")
+z <- filter(IESE2020,`Ciudad`=="LaPaz-Bolivia")
+bind_rows(x,y,z)
+          
+
+
+```
 
 Aplica los métodos que seleccionaste a los datos que tienes.
 Construye resultados numéricos.
