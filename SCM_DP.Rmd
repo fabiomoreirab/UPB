@@ -60,10 +60,36 @@ El resumen debe decir en trés o cuatro fraces:
 
 ## Revisión bibliográfica, materiales y métodos
 
-Señala qué datasets utilizarás, di de dónde los has obtenido. 
-Señala qué métodos utilizarás para comprobar si la hipótesis o pregunta de investigación tiene respuesta afirmativa o negativa.
-Mira muy bien la forma en que escriben los artículos.
+## Situación Problema
+#########################################################################
+Que pais esta cerca a tener mas ciudades inteligentes segun el dataset ?
+#########################################################################
 
+
+
+####################################################
+## Revisión bibliográfica, materiales y métodos ####
+####################################################
+
+Para el analisis de la tematica y la situacion y solucion del problema que planteamos nos dedicamos a buscar un dataset con las siguientes caracteristcas:
+
+*Lista de ciudades inteligentes en todo el mundo.
+*Lista de países donde se encuentran las ciudades inteligentes de todo el mundo.
+*Índice calculado a partir de la evaluación del sistema de transporte público, las TIC y la infraestructura de accesibilidad de la ciudad.
+*Índice calculado a partir del impacto de sostenibilidad ambiental, seguimiento de la contaminación y gestión energética-
+*Índice calculado a partir de un estudio comparativo de gobernanza transparente e iniciativas de datos abiertos de ciudades inteligentes en todo el mundo.
+*Índice calculado a través de la comparación global de la productividad, la vitalidad económica y el apoyo a la ciudad.
+*Índice calculado comparando la pluralidad social y cultural, los sistemas educativos y sus auxiliares de apoyo.
+*Índice calculado midiendo métricas en torno a los servicios de salud, seguridad social y calidad de la vivienda.
+*Puntaje agregado para el modelo de ciudad inteligente basado en supergrupos de ciudades inteligentes.
+
+Para el analisis de la problematica se usara el metodo de Pareto, para comparar y resolver la problematica expuesta .
+
+Bibliografia:
+
+El dataset fue obtenido en las paginas de Kaggle; dataset: https://www.kaggle.com/magdamonteiro/smart-cities-index-datasets
+https://rockcontent.com/es/blog/diagrama-de-pareto/
+https://es.slideshare.net/angie93/historia-diagrama-de-paret-oo
 
 #########################################
 ### Marco Teorico o metodos aplicados ###
