@@ -100,6 +100,15 @@ https://es.slideshare.net/angie93/historia-diagrama-de-paret-oo
 ### Marco Teorico o metodos aplicados ###
 #########################################
 
+Que es un diagrama de dispersion?
+
+El diagrama de dispersión es una grafica del tipo X –Y cuyo objetivo es analizar la forma en que dos variables numéricas están relacionadas. El diagrama de dispersión se obtiene coleccionando los datos en pares de valores sobre dos variables (x,y). Las parejas de datos obtenidos se representan a través de puntos en una grafica del tipo X – Y (ejes de coordenada cartesianos).
+
+El análisis de un diagrama de dispersión puede mostrar varios tipos de correlaciones entre las variables con un intervalo de confianza determinado. La correlación puede ser positiva ((Y aumenta con X)), negativa (Y disminuye con X), o nula (las variables no están correlacionadas).
+
+El diagrama de dispersión es una de las herramientas básicas de gestión de la calidad, muy útil al analizar las causas de un problema y para Identificar oportunidades de mejora continua.
+
+
 ¿Qué es el diagrama de Pareto?
 
 El diagrama de Pareto permite determinar irregularidades de una organización, identificar sus puntos de mejora y definir cuál plan de acción es primordial para atacar sus pérdidas.
@@ -261,10 +270,8 @@ Responde a la pregunta de investigación y di si era verdadero o falso lo que pe
 
 ## Referencias Bibliográficas
 
-Cita todas las bibliotecas de R-Cran que hayas utilizado
-Señala todos los enlaces en los que están los datos que utilizas.
-Señala los artículos que más te han aportado inspiración
-
+http://www.scielo.org.mx/scielo.php?pid=S2448-91902019000300354&script=sci_arttext
+https://www.iese.edu/faculty-research/cities-in-motion/
 
 
 
