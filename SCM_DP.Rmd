@@ -65,10 +65,45 @@ Señala qué métodos utilizarás para comprobar si la hipótesis o pregunta de 
 Mira muy bien la forma en que escriben los artículos.
 
 
-## Marcos teóricos o métodos aplicables
+#########################################
+### Marco Teorico o metodos aplicados ###
+#########################################
 
-Explica algo de la historia del o de los métodos que resulten elegidos. Comenta si los has visto en libros, casos de estudio, si te los sugirió o comentó otro profesor, etc.
+¿Qué es el diagrama de Pareto?
 
+El diagrama de Pareto permite determinar irregularidades de una organización, identificar sus puntos de mejora y definir cuál plan de acción es primordial para atacar sus pérdidas.
+
+El diagrama de Pareto es una gráfica que organiza valores, los cuales están separados por barras y organizados de mayor a menor, de izquierda a derecha respectivamente.
+
+Esta gráfica permite asignar un orden de prioridades para la toma de decisiones de una organización y determinar cuáles son los problemas más graves que se deben resolver primero.
+
+Su finalidad, es hacer visibles los problemas reales que están afectando el alcanzar los objetivos de la empresa y reducir las pérdidas que esta posee.
+
+Además, permite evaluar previamente, cuáles son las necesidades del público objetivo y cómo satisfacerlas con nuestro producto o servicio, logando también, el objetivo del mercadotecnia.
+
+
+Historia del diagrama de Pareto
+
+El nombre de Pareto fue dado por el Dr. Joseph Juran en honor del economista italiano Wilfredo Pareto. Wilfredo Pareto (Paris 1848, Turín 1923) Economista italiano, realizó un estudio sobre la riqueza y la pobreza. 
+
+Descubrió que el 20% de las personas controlaba el 80% de la riqueza en Italia. Pareto observó muchas otras distribuciones similares en su estudio. A principios de los años 50, el Dr. Joseph Juran descubrió la evidencia para la regla de "80-20" en una gran variedad de situaciones. En particular, el fenómeno parecía existir sin excepción en problemas relacionados con la calidad. 
+
+Una expresión común de la regla 80/20 es que "el 80% de nuestro negocio proviene del 20% de nuestros clientes. “Por lo tanto, el Análisis de Pareto es una técnica que separa los "pocos vitales" de los "muchos triviales". Una Gráfica Pareto es utilizada para separar gráficamente los aspectos significativos de un problema desde los triviales de manera que un equipo sepa dónde dirigir sus esfuerzos para mejorar. 
+
+Principio De Pareto 
+
+El Principio de Pareto afirma que en todo grupo de elementos o factores que contribuyen a un mismo efecto, unos pocos son responsables de la mayor parte de dicho efecto. El Análisis de Pareto es una comparación cuantitativa y ordenada de elementos o factores según su contribución a un determinado efecto. El objetivo de esta comparación es clasificar dichos elementos o factores en dos categorías: Las "Pocas Vitales" (los elementos muy importantes en su contribución) y los "Muchos Triviales" (los elementos poco importantes en ella).
+
+Caracteristicas Principales
+
+*Priorización 
+Identifica los elementos que más peso o importancia tienen dentro de un grupo. 
+
+*Unificación de Criterios 
+Enfoca y dirige el esfuerzo de los componentes del grupo de trabajo hacia un objetivo prioritario común. 
+
+*Carácter objetivo. 
+Su utilización fuerza al grupo de trabajo a tomar decisiones basadas en datos y hechos objetivos y no en ideas subjetivas.
 
 ## Experimentación
 
