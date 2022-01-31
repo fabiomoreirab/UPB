@@ -71,15 +71,15 @@ El resumen debe decir en trés o cuatro fraces:
 Para el análisis de la temática se usó el ICIM, el cual es un indicador sintético y, como tal, constituye una función basada en los indicadores parciales disponibles.
 El proceso de creación de este indicador sintético se basa en un modelo de agregación ponderada de indicadores parciales que representan cada una de las nueve dimensiones que componen el modelo teórico del ICIM. Las seleccionadas para describir la realidad de las ciudades, en función de la sostenibilidad y la calidad de vida de sus habitantes, tanto en el presente como en el futuro, son las siguientes: 
 
-*Gobernanza, 
-*Planificación urbana, 
-*Tecnología,
-*Medioambiente, 
-*Proyección internacional, 
-*Cohesión social, 
-*Capital humano, 
-*Movilidad y transporte, y 
-*Economía.
+**Gobernanza, 
+**Planificación urbana, 
+**Tecnología,
+**Medioambiente, 
+**Proyección internacional, 
+**Cohesión social, 
+**Capital humano, 
+**Movilidad y transporte, y 
+**Economía.
 
 Si bien el orden en el que se incorpora cada índice sintético de cada dimensión influye en el valor del ICIM,
 los estudios de sensibilidad realizados concluyen que no existen variaciones significativas en el mismo. 
