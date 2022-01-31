@@ -91,6 +91,9 @@ Para el analisis de la problematica se usara el metodo de Pareto, para comparar 
 
 Bibliografia:
 
+Para obtener más detalles sobre la metodología aplicada,puede consultarse la publicación complementaria IESE
+Cities in Motion Index. Metodología y modelización, mencionada anteriormente. 
+
 El dataset fue obtenido en las paginas de Kaggle; dataset: https://www.kaggle.com/magdamonteiro/smart-cities-index-datasets
 https://rockcontent.com/es/blog/diagrama-de-pareto/
 https://es.slideshare.net/angie93/historia-diagrama-de-paret-oo
