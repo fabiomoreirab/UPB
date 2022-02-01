@@ -84,17 +84,14 @@ El proceso de creación de este indicador sintético se basa en un modelo de agr
 Si bien el orden en el que se incorpora cada índice sintético de cada dimensión influye en el valor del ICIM,
 los estudios de sensibilidad realizados concluyen que no existen variaciones significativas en el mismo. 
 
-Para el analisis de la problematica se usara el metodo de Pareto, para comparar y resolver la problematica expuesta .
+Para el analisis de la problematica se usara el metodo de diagrama de dispersión, para comparar y resolver la problematica expuesta .
 
 Bibliografia:
 
 Para obtener más detalles sobre la metodología aplicada,puede consultarse la publicación complementaria IESE
 Cities in Motion Index. Metodología y modelización, mencionada anteriormente. 
 
-El dataset fue obtenido en las paginas de Kaggle; 
-dataset: https://www.kaggle.com/magdamonteiro/smart-cities-index-datasets
-https://rockcontent.com/es/blog/diagrama-de-pareto/
-https://es.slideshare.net/angie93/historia-diagrama-de-paret-oo
+El dataset fue obtenido de los estudios de IESE actualizado al año 2020.
 
 #########################################
 ### Marco Teorico o metodos aplicados ###
