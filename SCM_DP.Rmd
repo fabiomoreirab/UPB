@@ -166,10 +166,11 @@ plot(IESE2020$`Cities in Motion`,IESE2020$Economía,main="Index vS Economía",yl
 plot(IESE2020$`Cities in Motion`,IESE2020$Tecnología,main="Index vS Tecnología",ylab="Tecnología",xlab="Index")
 ```
 
-## Ranking TOP 10 para cada una de las variables asignadas
+Ranking TOP 10 para cada una de las variables asignadas
 ```{r}
 library(dplyr)
 t <- arrange(IESE2020,`Medio ambiente`)
+str(t)
 head(t,10)
 
 ```
@@ -177,6 +178,7 @@ head(t,10)
 ```{r}
 library(dplyr)
 t <- arrange(IESE2020,`Cohesión social`)
+str(t)
 head(t,10)
 
 ```
@@ -185,6 +187,7 @@ head(t,10)
 ```{r}
 library(dplyr)
 t <- arrange(IESE2020,`Planificación Urbana`)
+str(t)
 head(t,10)
 
 ```
@@ -192,6 +195,7 @@ head(t,10)
 ```{r}
 library(dplyr)
 t <- arrange(IESE2020,`Movilidad y transporte`)
+str(t)
 head(t,10)
 
 ```
@@ -199,6 +203,7 @@ head(t,10)
 ```{r}
 library(dplyr)
 t <- arrange(IESE2020,`Gobernanza`)
+str(t)
 head(t,10)
 
 ```
@@ -207,6 +212,7 @@ head(t,10)
 ```{r}
 library(dplyr)
 t <- arrange(IESE2020,`Proyección Internacional`)
+str(t)
 head(t,10)
 
 ```
@@ -215,6 +221,7 @@ head(t,10)
 ```{r}
 library(dplyr)
 t <- arrange(IESE2020,`Capital Humano`)
+str(t)
 head(t,10)
 
 ```
@@ -223,6 +230,7 @@ head(t,10)
 ```{r}
 library(dplyr)
 t <- arrange(IESE2020,`Economía`)
+str(t)
 head(t,10)
 
 ```
@@ -231,6 +239,7 @@ head(t,10)
 ```{r}
 library(dplyr)
 t <- arrange(IESE2020,`Tecnología`)
+str(t)
 head(t,10)
 
 ```
