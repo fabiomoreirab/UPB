@@ -100,6 +100,9 @@ https://es.slideshare.net/angie93/historia-diagrama-de-paret-oo
 ### Marco Teorico o metodos aplicados ###
 #########################################
 
+No es fácil señalar el momento de la historia exacto en el que nacieron los gráficos estadísticos. La representación visual de la información se usaba desde tiempos muy remotos, por ejemplo, en forma de mapas geográficos o celestes. Pero podría decirse que no fue hasta el siglo **XVIII** cuando los gráficos estadísticos como tales surgieron. 
+Los estudios científicos, económicos, geográficos, sociales, demográficos, etc. cada vez tenían más importancia, y las distintas disciplinas científicas cada vez avanzaban más. Los instrumentos y técnicas de medida eran cada vez más precisos y mejores y al final, como resultado de experimentos y observaciones se obtenía un conjunto de datos que se anotaban y analizaban. La representación gráfica de esos datos fue un paso natural. 
+
 Que es un diagrama de dispersion?
 
 El diagrama de dispersión es una grafica del tipo X –Y cuyo objetivo es analizar la forma en que dos variables numéricas están relacionadas. El diagrama de dispersión se obtiene coleccionando los datos en pares de valores sobre dos variables (x,y). Las parejas de datos obtenidos se representan a través de puntos en una grafica del tipo X – Y (ejes de coordenada cartesianos).
@@ -109,17 +112,7 @@ El análisis de un diagrama de dispersión puede mostrar varios tipos de correla
 El diagrama de dispersión es una de las herramientas básicas de gestión de la calidad, muy útil al analizar las causas de un problema y para Identificar oportunidades de mejora continua.
 
 
-¿Qué es el diagrama de Pareto?
 
-El diagrama de Pareto permite determinar irregularidades de una organización, identificar sus puntos de mejora y definir cuál plan de acción es primordial para atacar sus pérdidas.
-
-El diagrama de Pareto es una gráfica que organiza valores, los cuales están separados por barras y organizados de mayor a menor, de izquierda a derecha respectivamente.
-
-Esta gráfica permite asignar un orden de prioridades para la toma de decisiones de una organización y determinar cuáles son los problemas más graves que se deben resolver primero.
-
-Su finalidad, es hacer visibles los problemas reales que están afectando el alcanzar los objetivos de la empresa y reducir las pérdidas que esta posee.
-
-Además, permite evaluar previamente, cuáles son las necesidades del público objetivo y cómo satisfacerlas con nuestro producto o servicio, logando también, el objetivo del mercadotecnia.
 
 
 Historia del diagrama de Pareto
