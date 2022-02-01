@@ -121,12 +121,31 @@ Cómo hacer un diagrama de dispersión?
 **Paso 5:** Determinar el coeficiente de correlación: El coeficiente de correlación debe verse reflejado en la forma que toma el gráfico de dispersión. 
 **Paso 6:** Analizamos: Con base en el coeficiente y en el gráfico, definimos cuál es la relación de las dos variables y tomamos las decisiones pertinentes.
 
-Historia del diagrama de Dispersión
+**Historia del Diagrama de Dispersión.**
 
-//falta//
-
-
-
+No es fácil señalar el momento de la historia exacto en el que nacieron los gráficos estadísticos. La representación visual de la información se usaba desde tiempos muy remotos, por ejemplo, en forma de mapas geográficos o celestes. Pero podría decirse que no fue hasta el siglo XVIII cuando los gráficos estadísticos como tales surgieron. 
+Los estudios científicos, económicos, geográficos, sociales, demográficos, etc. cada vez tenían más importancia, y las distintas disciplinas científicas cada vez avanzaban más. 
+Los instrumentos y técnicas de medida eran cada vez más precisos y mejores y al final, como resultado de experimentos y observaciones se obtenía un conjunto de datos que se anotaban y analizaban. La representación gráfica de esos datos fue un paso natural. Para una descripción breve como la que se pretende ofrecer, podemos dividir la evolución y desarrollo de los gráficos estadísticos en cuatro grandes etapas.
+*Primera Etapa: 1600 – 1699*
+En esta primera etapa surgen representaciones gráficas de los resultados de observaciones y experimentos científicos. Podemos destacar el gráfico de 1644 de Michael van Langren, un astrónomo holandés que trabajó en la corte de Felipe IV, que recogía las distintas estimaciones que se habían hecho de la distancia que separa Toledo de Roma (12 en total).
+En 1669 de Christiaan Huygens elabora un gráfico que muestra los años restantes de vida en función de la edad.
+*Segunda Etapa: 1700 – 1799*
+Joseph Priestley (1733 - 1804) Científico y teólogo inglés del siglo XVIII. Publicó más de 150 obras sobre ciencia y religión. Se le considera, junto con Scheele y Lavoisier, uno de los descubridores del oxígeno. Los últimos años de su vida los pasó en Estados Unidos, donde murió en febrero de 1804. Durante su vida gozó de una notable reputación científica. Fue uno de los primeros en crear gráficos de hechos históricos utilizando la línea del tiempo. 
+Su intención era ofrecer una visión de la Historia más analítica y comprensiva que lo que se venía haciendo hasta la fecha. Más tarde sus gráficos inspiraron a Playfair para crear el diagrama de barras.
+*Segunda Etapa: 1700 – 1799*
+Evolución de las temperaturas del aire y del suelo Segunda etapa: 1700 – 1799 Gráfico de barras del comercio exterior de Escocia por países en 1780. Aparece en The Commercial and Political Atlas. Gráfico de la deuda de Inglaterra (The Commercial and Political Atlas).
+Gráfico de barras del comercio exterior de Escocia por países en 1780. Aparece en The Commercial and Political Atlas. 
+*Tercera Etapa: 1800 – 1899* 
+Se aprovechan las innovaciones que aparecieron en el siglo anterior. Destacan entre otros los gráficos de *Charles Minard*, *Florence Nightingale* y *Francis Amasa Walker*. Además, los estudios sobre herencia genética de Francis Galton y los de astronomía de John F. W. Herschel facilitaron la creación del diagrama de dispersión.
+*Tercera Etapa: 1800 – 1899* 
+**Charles Joseph Minard (1781-1880)** Ingeniero francés del siglo XIX. En el campo de los gráficos destaca por el empleo de cartogramas, o mapas sobre los que se representan datos estadísticos. Es muy famosa su representación de las sucesivas pérdidas de hombres de la Armada Francesa en la campaña de Rusia 1812-1813 (Carte figurative des pertes successives en hommes de l'Armée Française dans la campagne de Russie 1812-1813), en la que muestra sobre el terreno la evolución de la campaña rusa del ejército de Napoleón.
+**Florence Nightingale (1820 – 1910)** Enfermera británica del siglo XIX. Se la considerada una de las pioneras en la práctica de la enfermería. Destacó desde muy joven en matemáticas aplicando después sus conocimientos de estadística a la epidemiología y a la estadística sanitaria. Es reconocida como una precursora de la estadística social. Florence Nightingale es la inventora del gráfico de área polar, que utilizó para representar los datos de mortalidad de los soldados del ejército británico en la guerra de Crimea.
+**Francis Amasa Walker (1840 - 1897)** Economista y estadístico estadounidense, destaca porque bajo su dirección la oficina del censo de los Estados Unidos publicó, en 1874, la obra The Statistical Atlas of the United States, basada en los datos del censo de 1870. Este atlas era un compendio de gráficos y tablas que ofrecía información geológica, económica y social.
+**Tercera Etapa: 1800 – 1899**
+Francis Galton (1822 – 1911) Explorador, antropólogo y estadístico británico, es conocido por introducir la idea de las curvas de regresión, que pueden utilizarse para predecir el valor de una variable aleatoria en función de otra, y la noción de **correlación**. Hizo varios estudios sobre herencia genética y publicó los resultados de sus trabajos en su obra “Natural Inheritance”.
+Gracias a sus estudios y novedosas técnicas de análisis de datos y representaciones gráficas incluidas, y a los trabajos de astronomía de John F. W. Herschel (científico británico nacido en 1792, fallecido en 1871) se ideó y extendió el uso del gráfico de dispersión, utilizado para estudiar las relaciones que puede haber entre dos variables referidas al mismo conjunto de individuos.
+Gráfico de correlación (no de dispersión) de Galton que muestra la relación entre la circunferencia de la cabeza y la estatura, cuyo grafico fueron los inicios de sus avances en los gráficos de correlación que hoy en día ya conocemos.
+Galton describió el proceso de construcción de un diagrama de dispersión en un artículo de 1890.  Cuyo gráfico de dispersión recoge los datos de consumo de fertilizantes y producción de cereales en varios países europeos.
 
 ## Experimentación
 
@@ -255,6 +274,7 @@ Responde a la pregunta de investigación y di si era verdadero o falso lo que pe
 
 http://www.scielo.org.mx/scielo.php?pid=S2448-91902019000300354&script=sci_arttext
 https://www.iese.edu/faculty-research/cities-in-motion/
+https://www.ine.es/explica/docs/pasos_historia_graficos.pdf
 
 
 
