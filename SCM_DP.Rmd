@@ -48,15 +48,7 @@ La hipótesis del presente trabajo se enfoca en poder realizar el estudio de var
 
 ### Resumen
 
-Escribe esta parte del documento al finalizar el trabajo. 
-Limita esta parte a 200 palabras. 
-Revisa publicaciones científicas para inspirarte. 
-El resumen debe decir en trés o cuatro fraces:
-
-* El objetivo
-* La hipótesis o pregunta de investigación
-* Los datos y métodos que elegiste
-* Anticipa los resultados que encontrará el lector
+El siguiente trabajo analiza la situacion de las ciudades mas importantes de Bolivia en cuanto a su indicador ICIM que muestra, en la actualidad, que tanto una ciudad puede ser considerada como Smart City de acuerdo a varios indicadores en funcion a la sostenibilidad y la calidad de vida de sus habitantes. Se intentara identificar que factores son los mas influyentes para mejorar el ranking de las ciudades, identificando a la tecnologia como el factor mas influyente, seguido de la gobrnanza ye l capital humano, los cuales serian los factores a mejorar para obtener un mejor ranking y por lo tanto tener una ciudades en las que la habitabilidad y la mejora continua provean a sus ciudadanos una mejor calidad de vida.
 
 ## Revisión bibliográfica, materiales y métodos
 
@@ -257,9 +249,6 @@ bind_rows(x,y,z)
 
 ```
 
-
-
-
 ## Interpretación de resultados
 
 ## Se puede observar en los graficos obtenidos lo siguiente:
@@ -267,11 +256,8 @@ bind_rows(x,y,z)
 
 * Se puede observar con un indice medio de determinacion en el ranking la gobernanza y el capital humano, ya que se puede observar un incide de crecimiento con menor dispersion que los mencionados en primera instancia, dentro de estos existen paises con buen rankin con baja gobernanza o proyeccion internacional.
 
-* Con una determinacion con mayor impacto sobre el ranking se observa el criterio de capital humano en primera instancia, que como se puede observar ya llega a tener una linealidad mas constante al igual que el indice de economia, que como se puede observar existen ciudades con un ranking (index) bajo, que se interpretan como paises con una proyeccion de mejora en futuros anos. Como ultimo dato y mas importante para el ranking es la tecnologia de cada ciudad, que demuestra un comportamiento lineal con baja dispersion, que de igual forma se pueden encontrar paises con un futura mejora.
+*Con una determinacion con mayor impacto sobre el ranking se observa el criterio de capital humano en primera instancia, que como se puede observar ya llega a tener una linealidad mas constante al igual que el indice de economia, que como se puede observar existen ciudades con un ranking (index) bajo, que se interpretan como piases con una proyeccion de mejora en futuros anos. Como ultimo dato y mas importante para el ranking es la tecnologia de cada ciudad, que demuestra un comportamiento lineal con baja dispersion, que de igual forma se pueden encontrar paises con un futura mejora.
 
-Se puede observar claramente en las Graficas de ranking por cada variables, que efectivamente existen variables que no tienen un impacto elevado en la eleccion para posiciones elevadas en el ranking, de todas formas en estas tablas podemos observar que algunos paises se enfocan en tener una gobernanza alta, y al mismo tiempo una buena posicion en medio ambiente, llegando a la caonclusion que se podria mejorar las variables en las que todavia no tienen un crecimiento notable en Economia y Tecnologia.
-
-Observando el caso comparativo de la ciudad de La Paz con la ciudad de Londres y Santiago se puede observar una gran diferencia de posiciones en todas la variables analizadas por el IESE, de todas formas como recomendacion para la ciudad de La Paz, el lineamiento que se deberia tomar es fortalecer el capital humano y la tecnologia, de tal forma poder obtener un mejor ranking en economia en un futuro.
 
 ## Referencias Bibliográficas
 
