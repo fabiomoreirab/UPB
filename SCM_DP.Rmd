@@ -112,31 +112,21 @@ El análisis de un diagrama de dispersión puede mostrar varios tipos de correla
 El diagrama de dispersión es una de las herramientas básicas de gestión de la calidad, muy útil al analizar las causas de un problema y para Identificar oportunidades de mejora continua.
 
 
+Cómo hacer un diagrama de dispersión?
+
+**Paso 1:** Determinar cuál es la situación. 
+**Paso 2:** Determinar las variables a estudiar, que puede tener una relación entre ellas.
+**Paso 3:** Recolectar los datos de las variables: 
+**Paso 4:** Ubicar los valores en el eje respectivo. 
+**Paso 5:** Determinar el coeficiente de correlación: El coeficiente de correlación debe verse reflejado en la forma que toma el gráfico de dispersión. 
+**Paso 6:** Analizamos: Con base en el coeficiente y en el gráfico, definimos cuál es la relación de las dos variables y tomamos las decisiones pertinentes.
+
+Historia del diagrama de Dispersión
+
+//falta//
 
 
 
-Historia del diagrama de Pareto
-
-El nombre de Pareto fue dado por el Dr. Joseph Juran en honor del economista italiano Wilfredo Pareto. Wilfredo Pareto (Paris 1848, Turín 1923) Economista italiano, realizó un estudio sobre la riqueza y la pobreza. 
-
-Descubrió que el 20% de las personas controlaba el 80% de la riqueza en Italia. Pareto observó muchas otras distribuciones similares en su estudio. A principios de los años 50, el Dr. Joseph Juran descubrió la evidencia para la regla de "80-20" en una gran variedad de situaciones. En particular, el fenómeno parecía existir sin excepción en problemas relacionados con la calidad. 
-
-Una expresión común de la regla 80/20 es que "el 80% de nuestro negocio proviene del 20% de nuestros clientes. “Por lo tanto, el Análisis de Pareto es una técnica que separa los "pocos vitales" de los "muchos triviales". Una Gráfica Pareto es utilizada para separar gráficamente los aspectos significativos de un problema desde los triviales de manera que un equipo sepa dónde dirigir sus esfuerzos para mejorar. 
-
-Principio De Pareto 
-
-El Principio de Pareto afirma que en todo grupo de elementos o factores que contribuyen a un mismo efecto, unos pocos son responsables de la mayor parte de dicho efecto. El Análisis de Pareto es una comparación cuantitativa y ordenada de elementos o factores según su contribución a un determinado efecto. El objetivo de esta comparación es clasificar dichos elementos o factores en dos categorías: Las "Pocas Vitales" (los elementos muy importantes en su contribución) y los "Muchos Triviales" (los elementos poco importantes en ella).
-
-Caracteristicas Principales
-
-*Priorización 
-Identifica los elementos que más peso o importancia tienen dentro de un grupo. 
-
-*Unificación de Criterios 
-Enfoca y dirige el esfuerzo de los componentes del grupo de trabajo hacia un objetivo prioritario común. 
-
-*Carácter objetivo. 
-Su utilización fuerza al grupo de trabajo a tomar decisiones basadas en datos y hechos objetivos y no en ideas subjetivas.
 
 ## Experimentación
 
