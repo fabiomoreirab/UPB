@@ -92,6 +92,28 @@ https://es.slideshare.net/angie93/historia-diagrama-de-paret-oo
 ### Marco Teorico o metodos aplicados ###
 #########################################
 
+**Definición de Smart City**
+Una smart city o ciudad inteligente es un lugar donde las tecnologías facilitan la interacción entre los ciudadanos y el entorno urbano gracias al Internet de las cosas (IoT), la Inteligencia Artificial o el Big Data. Y todas ellas están enfocadas en mejorar la infraestructura y los servicios públicos de las ciudades.
+Se puede definir una ciudad como **inteligente** si se invierte en capital humano y social, se mejora el transporte, las infraestructuras y las TIC. Con todo ello, se consigue un desarrollo económico más sostenible y un aumento de la **calidad de vida** a través de la participación ciudadana.
+
+Hablar de Smart Cities puede significar una realidad distante para algunos y una opción cercana o tangible para otros. Puede también ser una construcción, un proceso, una gestación, una **meta** en la cual ocuparse. Sin embargo, puede ser un lejano anhelo ante la inminencia de necesidades básicas insatisfechas y, por ende, más apremiantes. Esto no condiciona su avance en los contextos que sí le son favorables. Su curso no se detiene.
+
+**Seguridad y confianza en un Smart City**
+Las ciudades inteligentes solo pueden funcionar si podemos confiar en ellas. Todos los socios del ecosistema (gobiernos, empresas, proveedores de software, fabricantes de dispositivos, proveedores de energía y proveedores de servicios de red) deben hacer su parte e integrar soluciones que cumplan cuatro objetivos de seguridad básicos: 
+
+**1. Disponibilidad:** sin un acceso a los datos accionable, en tiempo real y confiable, la ciudad inteligente no puede prosperar. Cómo se recopilan, destilan y comparten los datos es fundamental, y las soluciones de seguridad deben evitar los efectos negativos sobre la disponibilidad.
+**2. Integridad:** las ciudades inteligentes dependen de datos confiables y precisos. Se deben tomar medidas para garantizar que los datos sean precisos y libres de manipulación.Smart cities depend on reliable and accurate data
+**3. Confidencialidad:** algunos de los datos recopilados, almacenados y analizados incluirán información sensible sobre los consumidores. Se deben tomar medidas para evitar la divulgación no autorizada de la información confidencial.
+**4. Responsabilidad:** los usuarios de un sistema deben ser responsables de sus acciones. Sus interacciones con sistemas sensibles deben registrarse y asociarse con un usuario específico. Estos registros deberían ser difíciles de falsificar y tener una fuerte protección de integridad.
+
+**Objetivos de un Smart City**
+Los objetivos principales de un Smart City son los siguientes:
+- Un desarrollo sostenible.
+- Un incremento de la calidad de vida de los ciudadanos.
+- Una mayor eficacia de los recursos disponibles.
+- Una participación ciudadana activa.
+
+**Diagramas empleados**
 No es fácil señalar el momento de la historia exacto en el que nacieron los gráficos estadísticos. La representación visual de la información se usaba desde tiempos muy remotos, por ejemplo, en forma de mapas geográficos o celestes. Pero podría decirse que no fue hasta el siglo **XVIII** cuando los gráficos estadísticos como tales surgieron. 
 Los estudios científicos, económicos, geográficos, sociales, demográficos, etc. cada vez tenían más importancia, y las distintas disciplinas científicas cada vez avanzaban más. Los instrumentos y técnicas de medida eran cada vez más precisos y mejores y al final, como resultado de experimentos y observaciones se obtenía un conjunto de datos que se anotaban y analizaban. La representación gráfica de esos datos fue un paso natural. 
 
@@ -102,7 +124,6 @@ El diagrama de dispersión es una grafica del tipo X –Y cuyo objetivo es anali
 El análisis de un diagrama de dispersión puede mostrar varios tipos de correlaciones entre las variables con un intervalo de confianza determinado. La correlación puede ser positiva ((Y aumenta con X)), negativa (Y disminuye con X), o nula (las variables no están correlacionadas).
 
 El diagrama de dispersión es una de las herramientas básicas de gestión de la calidad, muy útil al analizar las causas de un problema y para Identificar oportunidades de mejora continua.
-
 
 Cómo hacer un diagrama de dispersión?
 
@@ -264,6 +285,7 @@ bind_rows(x,y,z)
 http://www.scielo.org.mx/scielo.php?pid=S2448-91902019000300354&script=sci_arttext
 https://www.iese.edu/faculty-research/cities-in-motion/
 https://www.ine.es/explica/docs/pasos_historia_graficos.pdf
+https://www.ceupe.mx/blog/que-son-las-smart-cities.html
 
 
 
