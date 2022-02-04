@@ -1,7 +1,7 @@
 ---
-title: "SCM y Desarrollo de Proveedores"
+title: "Estudio de variables del análisis IESE cities in Motion"
 author: "GRUPO 6"
-subtitle: Una oportunidad para la Industria 4.0 
+subtitle: Factores influyentes en la evolución y crecimiento de un País 
 output:
   pdf_document:
     toc: yes
@@ -15,117 +15,73 @@ output:
     fig_caption: yes
 ---
 
-\newpage
-<center>
-![](image/logo.png)
-</center>
 
 
-# Trabajo Final del Módulo
+# **Trabajo Final del Módulo**
 
-<h2>Maestría en Administración de Empresas </h2>
-
-<h3>Supply Chain Management1  </h3>
-<h2> Una puerta de entrada para Industria 4.0 en latinoamérica </h2>
-
-<hr>
-
-## GRUPO 6 
+<h2>GESTION DE PROVEEDORES Y CADENA DE SUMINISTROS </h2>
 
 
-## Integrantes
+
+
+## **Integrantes**
 
 1. YHOSELYN TANIA QUINTANILLA CASSA <yhoselynrs@gmail.com>
 2. FABIO ROBERTO MOREIRA BERNAL <fabio.moreira.b@gmail.com>
-3. DENNIS RAMON ZAPATA SOTO <dennis.zapata.soto@gail.com>
+3. DENNIS RAMON ZAPATA SOTO <dennis.zapata.soto@gmail.com>
 4. FABIAN MILTON MURILLO BALDIVIESO <fabmurbal@gmail.com>
 
+```{r}
+library(readr)
+IESE2020 <- read_csv("https://docs.google.com/spreadsheets/d/e/2PACX-1vRPlZis-OaQ5YwETBOEvQwbAO6Qyx_5Nb6ID1qa8w1D5ByJCra994GEKPx5GMDoDQ/pub?gid=1255849634&single=true&output=csv")
+```
 
-## Situación Problema
+## **Situación Problema** ##
 
-La hipótesis del presente trabajo se enfoca en poder realizar el estudio de variables que pueden ser inferentes en mayor proporción al momento de determinar lo preparada que esta una ciudad para la implementación de SMART CITIES, basado en la base de datos ofrecida por el IESE cities in motion, de esto forma poder enfocar las fortalezas que son necesarias y al mismo tiempo identificar las debilidades de algunas ciudad, las cuales no permiten el progreso de las mismas. Se realizara el estudio especifico de las ciudades del Pais Bolivia, en lo que respecta a la situación actual según la base de datos, y al mismo tiempo realizar una comparación con potencias mundiales y de cada uno de los continentes.
-
-
-### Resumen
-
-El siguiente trabajo analiza la situacion de las ciudades mas importantes de Bolivia en cuanto a su indicador ICIM que muestra, en la actualidad, que tanto una ciudad puede ser considerada como Smart City de acuerdo a varios indicadores en funcion a la sostenibilidad y la calidad de vida de sus habitantes. Se intentara identificar que factores son los mas influyentes para mejorar el ranking de las ciudades, identificando a la tecnologia como el factor mas influyente, seguido de la gobrnanza ye l capital humano, los cuales serian los factores a mejorar para obtener un mejor ranking y por lo tanto tener una ciudades en las que la habitabilidad y la mejora continua provean a sus ciudadanos una mejor calidad de vida.
-
-## Revisión bibliográfica, materiales y métodos
-
-## Situación Problema
+La hipótesis del presente trabajo se enfoca en poder realizar el estudio de variables que pueden ser inferentes en mayor proporción al momento de determinar lo preparada que esta una ciudad para la implementación de SMART CITIES, basado en la base de datos ofrecida por el IESE cities in motion, de ésta forma poder enfocar las fortalezas que son necesarias y al mismo tiempo identificar las debilidades de algunas ciudad, las cuales no permiten el progreso de las mismas. Se realizará el estudio específico de la La Paz Bolivia, en lo que respecta a la situación actual según la base de datos, y al mismo tiempo realizar una comparación con la potencia mundial y la ciudad en potencia de Sudamérica.
 
 
+## **Resumen** ##
 
-####################################################
-## Revisión bibliográfica, materiales y métodos ####
-####################################################
+El ICIM es un indicador sintético y, como tal, constituye una función basada en los indicadores parciales disponibles.
+El proceso de creación de este indicador sintético se basa en un modelo de agregación ponderada de indicadores parciales que representan cada una de las nueve dimensiones que lo componen. 
 
-Para el análisis de la temática se usó el ICIM, el cual es un indicador sintético y, como tal, constituye una función basada en los indicadores parciales disponibles.
-El proceso de creación de este indicador sintético se basa en un modelo de agregación ponderada de indicadores parciales que representan cada una de las nueve dimensiones que componen el modelo teórico del ICIM. Las seleccionadas para describir la realidad de las ciudades, en función de la sostenibilidad y la calidad de vida de sus habitantes, tanto en el presente como en el futuro, son las siguientes: 
+Las dimensiones seleccionadas para describir la realidad de las ciudades, tanto en el presente como en el futuro, son las siguientes: 
 
 **Gobernanza, 
-**Planificación urbana, 
-**Tecnología,
-**Medioambiente, 
-**Proyección internacional, 
-**Cohesión social, 
-**Capital humano, 
-**Movilidad y transporte, y 
-**Economía.
+Planificación urbana, 
+Tecnología,
+Medio ambiente, 
+Proyección internacional, 
+Cohesión social, 
+Capital humano, 
+Movilidad y transporte, y 
+Economía.**
 
 Si bien el orden en el que se incorpora cada índice sintético de cada dimensión influye en el valor del ICIM,
 los estudios de sensibilidad realizados concluyen que no existen variaciones significativas en el mismo. 
 
-Para el analisis de la problematica se usara el metodo de Pareto, para comparar y resolver la problematica expuesta .
+El siguiente trabajo analiza la situación de las ciudades mas importantes de Bolivia en cuanto a su indicador ICIM que muestra, en la actualidad, que tanto una ciudad puede ser considerada como Smart City de acuerdo a varios indicadores en función a la sostenibilidad y la calidad de vida de sus habitantes. Se intentara identificar que factores son los mas influyentes para mejorar el ranking de las ciudades, identificando a la tecnologia como el factor mas influyente, seguido de la gobernanza y el capital humano, los cuales serian los factores a mejorar para obtener un mejor ranking y por lo tanto tener una ciudades en las que la habitabilidad y la mejora continua provean a sus ciudadanos una mejor calidad de vida.
 
-Bibliografia:
 
-Para obtener más detalles sobre la metodología aplicada,puede consultarse la publicación complementaria IESE
-Cities in Motion Index. Metodología y modelización, mencionada anteriormente. 
 
-El dataset fue obtenido en las paginas de Kaggle; 
-dataset: https://www.kaggle.com/magdamonteiro/smart-cities-index-datasets
-https://rockcontent.com/es/blog/diagrama-de-pareto/
-https://es.slideshare.net/angie93/historia-diagrama-de-paret-oo
 
 #########################################
-### Marco Teorico o metodos aplicados ###
+## **Marco Teórico o métodos aplicados** ##
 #########################################
 
-**Definición de Smart City**
-Una smart city o ciudad inteligente es un lugar donde las tecnologías facilitan la interacción entre los ciudadanos y el entorno urbano gracias al Internet de las cosas (IoT), la Inteligencia Artificial o el Big Data. Y todas ellas están enfocadas en mejorar la infraestructura y los servicios públicos de las ciudades.
-Se puede definir una ciudad como **inteligente** si se invierte en capital humano y social, se mejora el transporte, las infraestructuras y las TIC. Con todo ello, se consigue un desarrollo económico más sostenible y un aumento de la **calidad de vida** a través de la participación ciudadana.
-
-Hablar de Smart Cities puede significar una realidad distante para algunos y una opción cercana o tangible para otros. Puede también ser una construcción, un proceso, una gestación, una **meta** en la cual ocuparse. Sin embargo, puede ser un lejano anhelo ante la inminencia de necesidades básicas insatisfechas y, por ende, más apremiantes. Esto no condiciona su avance en los contextos que sí le son favorables. Su curso no se detiene.
-
-**Seguridad y confianza en un Smart City**
-Las ciudades inteligentes solo pueden funcionar si podemos confiar en ellas. Todos los socios del ecosistema (gobiernos, empresas, proveedores de software, fabricantes de dispositivos, proveedores de energía y proveedores de servicios de red) deben hacer su parte e integrar soluciones que cumplan cuatro objetivos de seguridad básicos: 
-
-**1. Disponibilidad:** sin un acceso a los datos accionable, en tiempo real y confiable, la ciudad inteligente no puede prosperar. Cómo se recopilan, destilan y comparten los datos es fundamental, y las soluciones de seguridad deben evitar los efectos negativos sobre la disponibilidad.
-**2. Integridad:** las ciudades inteligentes dependen de datos confiables y precisos. Se deben tomar medidas para garantizar que los datos sean precisos y libres de manipulación.Smart cities depend on reliable and accurate data
-**3. Confidencialidad:** algunos de los datos recopilados, almacenados y analizados incluirán información sensible sobre los consumidores. Se deben tomar medidas para evitar la divulgación no autorizada de la información confidencial.
-**4. Responsabilidad:** los usuarios de un sistema deben ser responsables de sus acciones. Sus interacciones con sistemas sensibles deben registrarse y asociarse con un usuario específico. Estos registros deberían ser difíciles de falsificar y tener una fuerte protección de integridad.
-
-**Objetivos de un Smart City**
-Los objetivos principales de un Smart City son los siguientes:
-- Un desarrollo sostenible.
-- Un incremento de la calidad de vida de los ciudadanos.
-- Una mayor eficacia de los recursos disponibles.
-- Una participación ciudadana activa.
-
-**Diagramas empleados**
 No es fácil señalar el momento de la historia exacto en el que nacieron los gráficos estadísticos. La representación visual de la información se usaba desde tiempos muy remotos, por ejemplo, en forma de mapas geográficos o celestes. Pero podría decirse que no fue hasta el siglo **XVIII** cuando los gráficos estadísticos como tales surgieron. 
-Los estudios científicos, económicos, geográficos, sociales, demográficos, etc. cada vez tenían más importancia, y las distintas disciplinas científicas cada vez avanzaban más. Los instrumentos y técnicas de medida eran cada vez más precisos y mejores y al final, como resultado de experimentos y observaciones se obtenía un conjunto de datos que se anotaban y analizaban. La representación gráfica de esos datos fue un paso natural. Para el presente trabajo se emplearon Diagramas de dispersión y distribución para analizar la información obtenida asi como Diagrama Spider o conocido como Gráfico de Araña.
 
-Que es un diagrama de dispersion?
+#### **Que es un diagrama de dispersión?** ####
 
-El diagrama de dispersión es una grafica del tipo X –Y cuyo objetivo es analizar la forma en que dos variables numéricas están relacionadas. El diagrama de dispersión se obtiene coleccionando los datos en pares de valores sobre dos variables (x,y). Las parejas de datos obtenidos se representan a través de puntos en una grafica del tipo X – Y (ejes de coordenada cartesianos).
+El diagrama de dispersión es una gráfica del tipo X –Y cuyo objetivo es analizar la forma en que dos variables numéricas están relacionadas. El diagrama de dispersión se obtiene coleccionando los datos en pares de valores sobre dos variables (x,y). Las parejas de datos obtenidos se representan a través de puntos en una gráfica del tipo X – Y (ejes de coordenada cartesianos).
 
 El análisis de un diagrama de dispersión puede mostrar varios tipos de correlaciones entre las variables con un intervalo de confianza determinado. La correlación puede ser positiva ((Y aumenta con X)), negativa (Y disminuye con X), o nula (las variables no están correlacionadas).
 
 El diagrama de dispersión es una de las herramientas básicas de gestión de la calidad, muy útil al analizar las causas de un problema y para Identificar oportunidades de mejora continua.
 
-Cómo hacer un diagrama de dispersión?
+
+#### **Cómo hacer un diagrama de dispersión?**
 
 **Paso 1:** Determinar cuál es la situación. 
 **Paso 2:** Determinar las variables a estudiar, que puede tener una relación entre ellas.
@@ -134,9 +90,8 @@ Cómo hacer un diagrama de dispersión?
 **Paso 5:** Determinar el coeficiente de correlación: El coeficiente de correlación debe verse reflejado en la forma que toma el gráfico de dispersión. 
 **Paso 6:** Analizamos: Con base en el coeficiente y en el gráfico, definimos cuál es la relación de las dos variables y tomamos las decisiones pertinentes.
 
-**Historia del Diagrama de Dispersión.**
+#### **Historia del Diagrama de Dispersión.** ####
 
-No es fácil señalar el momento de la historia exacto en el que nacieron los gráficos estadísticos. La representación visual de la información se usaba desde tiempos muy remotos, por ejemplo, en forma de mapas geográficos o celestes. Pero podría decirse que no fue hasta el siglo XVIII cuando los gráficos estadísticos como tales surgieron. 
 Los estudios científicos, económicos, geográficos, sociales, demográficos, etc. cada vez tenían más importancia, y las distintas disciplinas científicas cada vez avanzaban más. 
 Los instrumentos y técnicas de medida eran cada vez más precisos y mejores y al final, como resultado de experimentos y observaciones se obtenía un conjunto de datos que se anotaban y analizaban. La representación gráfica de esos datos fue un paso natural. Para una descripción breve como la que se pretende ofrecer, podemos dividir la evolución y desarrollo de los gráficos estadísticos en cuatro grandes etapas.
 *Primera Etapa: 1600 – 1699*
@@ -176,10 +131,11 @@ Para presentar visualmente los gaps existentes entre el estado actual y el estad
 · Presentar claramente las categorías importantes de desempeño.
 
 
-## Experimentación
+## **Experimentación**
 
-##Comparacion de graficas entre la posicion asignada a cada ciudad, con las variables que son analizadas para cada ciudad
+#### Comparación de gráficas entre la posición asignada a cada ciudad, con las variables que son analizadas para cada ciudad
 ```{r}
+
 par(mfrow=c(2,2))
 
 plot(IESE2020$`Cities in Motion`,IESE2020$`Medio ambiente`,main="Index vS Medio ambiente",ylab="Medio ambiente",xlab="Index")
@@ -193,9 +149,15 @@ plot(IESE2020$`Cities in Motion`,IESE2020$`Capital Humano`,main="Index vS Capita
 plot(IESE2020$`Cities in Motion`,IESE2020$Economía,main="Index vS Economía",ylab="Economía",xlab="Index")
 
 plot(IESE2020$`Cities in Motion`,IESE2020$Tecnología,main="Index vS Tecnología",ylab="Tecnología",xlab="Index")
+
 ```
 
-Ranking TOP 10 para cada una de las variables asignadas
+La idea principal de realizar esta comparación, es la de observar el comportamiento de dispersión entre la posición final que tiene cada ciudad en el análisis IESE Cities in motion contra la posición que se tiene por cada variable analizada, de esta forma determinar analíticamente variable con mayor ponderación al que momento de la institución IESE, selecciona a una ciudad en los primeros puestos. De esta forma se podrá observar una linealidad relativa en la variable (s) que sea de mayor ponderacion en la calificación final, y en variables que no sean tomadas en cuenta con una ponderación alta, el comportamiento no tendrá un orden lineal, al contrario mostrara una dispersión de datos, ya que los primeros lugares en la ponderación final, podrían tener un ranking bajo en la variable con baja ponderación.
+
+
+
+
+#### **Ranking TOP 10 para cada una de las variables asignadas**
 ```{r}
 library(dplyr)
 t <- arrange(IESE2020,`Medio ambiente`)
@@ -273,7 +235,10 @@ head(t,10)
 
 ```
 
-##Comparacion de la ciudad con mejor ranking del mundo (Londres), la mejor ciudad de sudamerica y la ciudad de La Paz - Bolivia
+Mediante el análisis de Ranking 10 de cada variable en primer lugar nos permitirá reconocer que ciudades se encuentran en los primeros lugares para cada variable, y de esta forma podremos observar casos en los que las ciudad contengan un ranking alto en una variable, pero de igual forma tienen un ranking bajo en la ponderación final, de esta forma corroboramos la información obtenida por los gráficos de dispersión.   
+
+
+#### **Comparación de la ciudad con mejor ranking del mundo (Londres), la mejor ciudad de sudamericana y la ciudad de La Paz - Bolivia**
 ```{r}
 library(dplyr)
 library(fmsb)
@@ -286,32 +251,88 @@ bind_rows(x,y,z)
 
 ```
 
-## Interpretación de resultados
+#### **Gráfico Radar observando la comparacion de valores de variables entre la ciudad mejor posiciona a nivel mundial (Londres), la ciudad mejor posicionada en Sudamérica (Santiago) y la ciudad de La Paz Bolivia**
 
-## Se puede observar en los graficos obtenidos lo siguiente:
-* Se puede observar en los graficos que los primeros cuatro, que se refieren a medio ambiente, cohesion social, planificacion urbana y movilidad y transporte no son factores que influyan en los resultados de las posiciones para el ranking IESE cities in motion, ya que la comparacion entre posicion con cada una de la variables no muestran un comportamiento lineal creciente, por lo que se descarta este tipo de factores como "importantes" al momento de pensar en un pais para mejorar la posicion actual.
-
-* Se puede observar con un indice medio de determinacion en el ranking la gobernanza y el capital humano, ya que se puede observar un incide de crecimiento con menor dispersion que los mencionados en primera instancia, dentro de estos existen paises con buen rankin con baja gobernanza o proyeccion internacional.
-
-*Con una determinacion con mayor impacto sobre el ranking se observa el criterio de capital humano en primera instancia, que como se puede observar ya llega a tener una linealidad mas constante al igual que el indice de economia, que como se puede observar existen ciudades con un ranking (index) bajo, que se interpretan como piases con una proyeccion de mejora en futuros anos. Como ultimo dato y mas importante para el ranking es la tecnologia de cada ciudad, que demuestra un comportamiento lineal con baja dispersion, que de igual forma se pueden encontrar paises con un futura mejora.
+```{r}
+# Radar chart with fmsb package
+library(fmsb)
 
 
-## Referencias Bibliográficas
+
+# Radar chart with multiple overlapping individuals
+
+# Construct the data set
+data <- data.frame( Capital_Humano = c(166, 0, 1, 97, 152),
+                   Cohesión_social = c(166, 0, 64, 80, 126),
+                   Movilidad_y_transporte = c(166, 0, 3, 42, 154),
+                   Medio_ambiente = c(166, 0, 35, 29, 66),
+                   Gobernanza = c(166, 0, 2, 94, 155),
+                   Economía = c(166, 0, 14, 103, 155),
+                   Planificación_Urbana = c(166, 0, 2, 40, 140),
+                   Proyección_Internacional = c(166, 0, 1, 62, 150),
+                   Tecnología = c(166, 0, 6, 94, 166),
+                   row.names = c("max", "min", "Londres", "Santiago", 
+                                 "LaPaz"))
+
+# Define fill colors
+colors_fill <- c(scales::alpha("gray", 0.1),
+                 scales::alpha("gold", 0.1),
+                 scales::alpha("tomato", 0.2),
+                 scales::alpha("skyblue", 0.2))
+
+# Define line colors
+colors_line <- c(scales::alpha("darkgray", 0.9),
+                scales::alpha("gold", 0.9),
+                scales::alpha("tomato", 0.9),
+                scales::alpha("royalblue", 0.9))
+
+# Create plot
+radarchart(data, 
+           seg = 9,  # Number of axis segments
+           title = "Comparacion Londres, Santiago y La Paz",
+           pcol = colors_line,
+           pfcol = colors_fill,
+           plwd = 3)
+
+# Add a legend
+legend(x=1, 
+       y=1.35, 
+       legend = rownames(data[-c(1,2),]), 
+       bty = "n", pch=20 , col = colors_line, cex = 1.05, pt.cex = 3)
+```
+
+La gráfica nos ayuda a poder distinguir las diferencias que existen entre cada una de las ciudad, los puntos objetivos de alto impacto que fueron identificados previamente son corroborados, de esta forma se puede establecer una estrategia para la ciudad de La Paz y enfocar en su crecimiento - evolución. 
+
+## **Interpretación de resultados**
+
+* Se puede observar en los gráficos que los primeros cuatro, que se refieren a medio ambiente, cohesion social, planificación urbana y movilidad y transporte no son factores que influyan en los resultados de las posiciones para el ranking IESE cities in motion, ya que la comparacion entre posición con cada una de la variables no muestran un comportamiento lineal creciente, por lo que se descarta este tipo de factores como "importantes" al momento de pensar en un país para mejorar la posición actual.
+
+* Se puede observar con un indice medio de determinación en el ranking la gobernanza y el capital humano, ya que se puede observar un incide de crecimiento con menor dispersión que los mencionados en primera instancia, dentro de estos existen países con buen ranking con baja gobernanza o proyección internacional.
+
+* Con una determinacion con mayor impacto sobre el ranking se observa el criterio de capital humano en primera instancia, que como se puede observar ya llega a tener una linealidad mas constante al igual que el indice de economía, que como se puede observar existen ciudades con un ranking (index) bajo, que se interpretan como países con una proyección de mejora en futuros anos. Como ultimo dato y mas importante para el ranking es la tecnología de cada ciudad, que demuestra un comportamiento lineal con baja dispersión, que de igual forma se pueden encontrar países con un futura mejora.
+
+* Se puede observar claramente en las Graficas de ranking por cada variables, que efectivamente existen variables que no tienen un impacto elevado en la elección para posiciones elevadas en el ranking, de todas formas en estas tablas podemos observar que algunos países se enfocan en tener una gobernanza alta, y al mismo tiempo una buena posición en medio ambiente, llegando a la conclusión que se podría mejorar las variables en las que todavía no tienen un crecimiento notable en Economía y Tecnología.
+
+* Analizando el gráfico radar realizado obteniendo la comparacion de datos entre las ciudad de Londres, Santiago y La Paz, podemos observar que las variables con mayor apunte a desarrollo son Capital humano y Planificación internacional y Tecnología. Por lo que se recomienda realizar una inversión en estas áreas de tal forma en largo plazo pueda crecer por inercia la economía de la ciudad. 
+
+* Observando el caso comparativo de la ciudad de La Paz con la ciudad de Londres y Santiago se puede observar una gran diferencia de posiciones en todas la variables analizadas por el IESE, de todas formas como recomendación para la ciudad de La Paz, el lineamiento que se debería tomar es fortalecer el capital humano y la tecnología, de tal forma poder obtener un mejor ranking en economía en un futuro.
+
+## **Referencias Bibliográficas**
+
+Para obtener más detalles sobre la metodología aplicada,puede consultarse la publicación complementaria IESE
+Cities in Motion Index. Metodología y modelización, mencionada anteriormente. 
+
+El dataset fue obtenido en las paginas de Kaggle; 
+dataset: https://www.kaggle.com/magdamonteiro/smart-cities-index-datasets
+
+https://rockcontent.com/es/blog/diagrama-de-pareto/
+
+https://es.slideshare.net/angie93/historia-diagrama-de-paret-oo
 
 http://www.scielo.org.mx/scielo.php?pid=S2448-91902019000300354&script=sci_arttext
+
 https://www.iese.edu/faculty-research/cities-in-motion/
+
 https://www.ine.es/explica/docs/pasos_historia_graficos.pdf
-https://www.ceupe.mx/blog/que-son-las-smart-cities.html
-https://www.questionpro.com/es/help/spider-chart-analysis.html
-http://www.cyta.com.ar/biblioteca/bddoc/bdlibros/herramientas_calidad/radar.htm
 
-
-
-
-
-
-
-
-
-
-
+http://www.r-graph-gallery.com/143-spider-chart-with-saveral-individuals.html
