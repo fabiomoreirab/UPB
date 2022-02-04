@@ -161,12 +161,19 @@ Gráfico de correlación (no de dispersión) de Galton que muestra la relación 
 Galton describió el proceso de construcción de un diagrama de dispersión en un artículo de 1890.  Cuyo gráfico de dispersión recoge los datos de consumo de fertilizantes y producción de cereales en varios países europeos.
 
 **Que es un Diagrama de Spider o Gráfico de Araña?** 
+Una Gráfica de Radar, también conocida como un Diagrama de Araña, es una herramienta muy útil para mostrar visualmente los gaps entre el estado actual y el estado ideal.
 El gráfico de araña es una representación gráfica en donde se proyectan de manera visual y atractiva diversos datos, atributos y cualidades asociados a un grupo de personas, empresa u marca. Recibe su nombre debido a su apariencia la cual simula una telaraña colorida.
+
 El gráfico de araña brinda un mejor panorama, y sin esfuerzo, del promedio de todas las entidades y atributos donde se utilizan variables y “traza” la “media” de todos los resultados para darte una mejor experiencia al momento de revisar los resultados de una encuesta.
 Un gráfico de araña es un método gráfico para mostrar datos multivariados en forma de un gráfico bidimensional de tres o más variables cuantitativas representadas en ejes que parten del mismo punto. El gráfico de araña consiste en una secuencia de radios equiangulares, donde cada radio representa una de las variables.
 El gráfico de la araña también se conoce como gráfico de radar, gráfico de telaraña, gráfico polar o diagrama de Kiviat
 Los gráficos de araña son útiles para ver qué variables tienen una puntuación **high or low** dentro de un conjunto de datos, lo que las hace ideales para mostrar el performance.
 
+**Cuando se utiliza el Gráfico de Araña?**
+Para presentar visualmente los gaps existentes entre el estado actual y el estado ideal.
+· Captar las diferentes percepciones de todos los miembros del equipo con respecto al desempeño del equipo o de la organización.
+· Mostrar los cambios en las fortalezas o debilidades del equipo o de la organización.
+· Presentar claramente las categorías importantes de desempeño.
 
 
 ## Experimentación
@@ -296,6 +303,7 @@ https://www.iese.edu/faculty-research/cities-in-motion/
 https://www.ine.es/explica/docs/pasos_historia_graficos.pdf
 https://www.ceupe.mx/blog/que-son-las-smart-cities.html
 https://www.questionpro.com/es/help/spider-chart-analysis.html
+http://www.cyta.com.ar/biblioteca/bddoc/bdlibros/herramientas_calidad/radar.htm
 
 
 
