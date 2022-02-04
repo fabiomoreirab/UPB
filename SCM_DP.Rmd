@@ -115,7 +115,7 @@ Los objetivos principales de un Smart City son los siguientes:
 
 **Diagramas empleados**
 No es fácil señalar el momento de la historia exacto en el que nacieron los gráficos estadísticos. La representación visual de la información se usaba desde tiempos muy remotos, por ejemplo, en forma de mapas geográficos o celestes. Pero podría decirse que no fue hasta el siglo **XVIII** cuando los gráficos estadísticos como tales surgieron. 
-Los estudios científicos, económicos, geográficos, sociales, demográficos, etc. cada vez tenían más importancia, y las distintas disciplinas científicas cada vez avanzaban más. Los instrumentos y técnicas de medida eran cada vez más precisos y mejores y al final, como resultado de experimentos y observaciones se obtenía un conjunto de datos que se anotaban y analizaban. La representación gráfica de esos datos fue un paso natural. 
+Los estudios científicos, económicos, geográficos, sociales, demográficos, etc. cada vez tenían más importancia, y las distintas disciplinas científicas cada vez avanzaban más. Los instrumentos y técnicas de medida eran cada vez más precisos y mejores y al final, como resultado de experimentos y observaciones se obtenía un conjunto de datos que se anotaban y analizaban. La representación gráfica de esos datos fue un paso natural. Para el presente trabajo se emplearon Diagramas de dispersión y distribución para analizar la información obtenida asi como Diagrama Spider o conocido como Gráfico de Araña.
 
 Que es un diagrama de dispersion?
 
@@ -159,6 +159,15 @@ Francis Galton (1822 – 1911) Explorador, antropólogo y estadístico británic
 Gracias a sus estudios y novedosas técnicas de análisis de datos y representaciones gráficas incluidas, y a los trabajos de astronomía de John F. W. Herschel (científico británico nacido en 1792, fallecido en 1871) se ideó y extendió el uso del gráfico de dispersión, utilizado para estudiar las relaciones que puede haber entre dos variables referidas al mismo conjunto de individuos.
 Gráfico de correlación (no de dispersión) de Galton que muestra la relación entre la circunferencia de la cabeza y la estatura, cuyo grafico fueron los inicios de sus avances en los gráficos de correlación que hoy en día ya conocemos.
 Galton describió el proceso de construcción de un diagrama de dispersión en un artículo de 1890.  Cuyo gráfico de dispersión recoge los datos de consumo de fertilizantes y producción de cereales en varios países europeos.
+
+**Que es un Diagrama de Spider o Gráfico de Araña?** 
+El gráfico de araña es una representación gráfica en donde se proyectan de manera visual y atractiva diversos datos, atributos y cualidades asociados a un grupo de personas, empresa u marca. Recibe su nombre debido a su apariencia la cual simula una telaraña colorida.
+El gráfico de araña brinda un mejor panorama, y sin esfuerzo, del promedio de todas las entidades y atributos donde se utilizan variables y “traza” la “media” de todos los resultados para darte una mejor experiencia al momento de revisar los resultados de una encuesta.
+Un gráfico de araña es un método gráfico para mostrar datos multivariados en forma de un gráfico bidimensional de tres o más variables cuantitativas representadas en ejes que parten del mismo punto. El gráfico de araña consiste en una secuencia de radios equiangulares, donde cada radio representa una de las variables.
+El gráfico de la araña también se conoce como gráfico de radar, gráfico de telaraña, gráfico polar o diagrama de Kiviat
+Los gráficos de araña son útiles para ver qué variables tienen una puntuación **high or low** dentro de un conjunto de datos, lo que las hace ideales para mostrar el performance.
+
+
 
 ## Experimentación
 
@@ -286,6 +295,7 @@ http://www.scielo.org.mx/scielo.php?pid=S2448-91902019000300354&script=sci_artte
 https://www.iese.edu/faculty-research/cities-in-motion/
 https://www.ine.es/explica/docs/pasos_historia_graficos.pdf
 https://www.ceupe.mx/blog/que-son-las-smart-cities.html
+https://www.questionpro.com/es/help/spider-chart-analysis.html
 
 
 
